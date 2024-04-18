@@ -1,0 +1,55 @@
+----STUDENTS----
+---------------
+Student ID: 101
+Name: Derek
+Level: Freshman
+Major: Engineering
+GPA: 3.8
+Advisor ID: 654
+---------------
+---------------
+Student ID: 123
+Name: Andrew
+Level: Senior
+Major: Business
+GPA: 4
+Advisor ID: 987
+---------------
+---------------
+Student ID: 456
+Name: Bob
+Level: Junior
+Major: Computer Science
+GPA: 3
+Advisor ID: 654
+---------------
+---------------
+Student ID: 789
+Name: Charlie
+Level: Sophomore
+Major: Math
+GPA: 3.2
+Advisor ID: 987
+---------------
+
+
+----FACULTY----
+---------------
+Faculty ID: 654
+Name: Frank
+Level: Professor
+Department: Computer Science
+Advisee List: 
+101
+789
+---------------
+---------------
+Faculty ID: 987
+Name: Evan
+Level: Professor
+Department: Business
+Advisee List: 
+456
+123
+---------------
+

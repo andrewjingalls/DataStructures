@@ -1,0 +1,856 @@
+m k c x c 
+c k x g m 
+g x g k c 
+g k c c x 
+m b w x k 
+
+
+==============
+m k c x c 
+c k x g m 
+g x g k c 
+g k c c x 
+H b w x k 
+
+Level 1
+Mario is at position (4, 0)
+Mario is at power level 1
+Mario ate a Mushroom!
+Mario has 3 lives
+Mario has 0 coins
+Mario has defeated 0 enemies in a row!
+Mario will move down
+==============
+==============
+H k c x c 
+c k x g m 
+g x g k c 
+g k c c x 
+x b w x k 
+
+Level 1
+Mario is at position (0, 0)
+Mario is at power level 2
+Mario ate a Mushroom!
+Mario has 3 lives
+Mario has 0 coins
+Mario has defeated 0 enemies in a row!
+Mario will move down
+==============
+==============
+x k c x c 
+H k x g m 
+g x g k c 
+g k c c x 
+x b w x k 
+
+Level 1
+Mario is at position (1, 0)
+Mario is at power level 2
+Mario collected a coin!
+Mario has 3 lives
+Mario has 1 coins
+Mario has defeated 0 enemies in a row!
+Mario will move right
+==============
+==============
+x k c x c 
+x H x g m 
+g x g k c 
+g k c c x 
+x b w x k 
+
+Level 1
+Mario is at position (1, 1)
+Mario is at power level 1
+Mario fought a Koopa and lost!
+Mario has 3 lives
+Mario has 1 coins
+Mario has defeated 0 enemies in a row!
+Mario will move up
+==============
+==============
+x H c x c 
+x k x g m 
+g x g k c 
+g k c c x 
+x b w x k 
+
+Level 1
+Mario is at position (0, 1)
+Mario is at power level 0
+Mario fought a Koopa and lost!
+Mario has 3 lives
+Mario has 1 coins
+Mario has defeated 0 enemies in a row!
+Mario will move down
+==============
+==============
+x k c x c 
+x H x g m 
+g x g k c 
+g k c c x 
+x b w x k 
+
+Level 1
+Mario is at position (1, 1)
+Mario is at power level 0
+Mario fought a Koopa and lost!
+Mario has 2 lives
+Mario has 1 coins
+Mario has defeated 0 enemies in a row!
+Mario will move right
+==============
+==============
+x k c x c 
+x k H g m 
+g x g k c 
+g k c c x 
+x b w x k 
+
+Level 1
+Mario is at position (1, 2)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 1 coins
+Mario has defeated 0 enemies in a row!
+Mario will move up
+==============
+==============
+x k H x c 
+x k x g m 
+g x g k c 
+g k c c x 
+x b w x k 
+
+Level 1
+Mario is at position (0, 2)
+Mario is at power level 0
+Mario collected a coin!
+Mario has 2 lives
+Mario has 2 coins
+Mario has defeated 0 enemies in a row!
+Mario will move down
+==============
+==============
+x k x x c 
+x k H g m 
+g x g k c 
+g k c c x 
+x b w x k 
+
+Level 1
+Mario is at position (1, 2)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 2 coins
+Mario has defeated 0 enemies in a row!
+Mario will move up
+==============
+==============
+x k H x c 
+x k x g m 
+g x g k c 
+g k c c x 
+x b w x k 
+
+Level 1
+Mario is at position (0, 2)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 2 coins
+Mario has defeated 0 enemies in a row!
+Mario will move down
+==============
+==============
+x k x x c 
+x k H g m 
+g x g k c 
+g k c c x 
+x b w x k 
+
+Level 1
+Mario is at position (1, 2)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 2 coins
+Mario has defeated 0 enemies in a row!
+Mario will move right
+==============
+==============
+x k x x c 
+x k x H m 
+g x g k c 
+g k c c x 
+x b w x k 
+
+Level 1
+Mario is at position (1, 3)
+Mario is at power level 0
+Mario fought a Goomba and won!
+Mario has 2 lives
+Mario has 2 coins
+Mario has defeated 1 enemies in a row!
+Mario will move down
+==============
+==============
+x k x x c 
+x k x x m 
+g x g H c 
+g k c c x 
+x b w x k 
+
+Level 1
+Mario is at position (2, 3)
+Mario is at power level 0
+Mario fought a Koopa and won!
+Mario has 2 lives
+Mario has 2 coins
+Mario has defeated 2 enemies in a row!
+Mario will move down
+==============
+==============
+x k x x c 
+x k x x m 
+g x g x c 
+g k c H x 
+x b w x k 
+
+Level 1
+Mario is at position (3, 3)
+Mario is at power level 0
+Mario collected a coin!
+Mario has 2 lives
+Mario has 3 coins
+Mario has defeated 2 enemies in a row!
+Mario will move down
+==============
+==============
+x k x x c 
+x k x x m 
+g x g x c 
+g k c x x 
+x b w H k 
+
+Level 1
+Mario is at position (4, 3)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 3 coins
+Mario has defeated 2 enemies in a row!
+Mario will move left
+==============
+==============
+k c g g k 
+w c x b c 
+g c g x g 
+x m g k c 
+k k g k k 
+
+Level 2
+Mario is at position (4, 2)
+Mario is at power level 0
+Mario warped to the next level!
+Mario has 2 lives
+Mario has 3 coins
+Mario has defeated 2 enemies in a row!
+Mario will move left
+==============
+==============
+k c g g k 
+w c x b c 
+g c g x g 
+x m g k c 
+k k H k k 
+
+Level 2
+Mario is at position (4, 2)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 3 coins
+Mario has defeated 2 enemies in a row!
+Mario will move left
+==============
+==============
+k c g g k 
+w c x b c 
+g c g x g 
+x m g k c 
+k H x k k 
+
+Level 2
+Mario is at position (4, 1)
+Mario is at power level 0
+Mario fought a Koopa and won!
+Mario has 2 lives
+Mario has 3 coins
+Mario has defeated 3 enemies in a row!
+Mario will move down
+==============
+==============
+k H g g k 
+w c x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (0, 1)
+Mario is at power level 0
+Mario collected a coin!
+Mario has 2 lives
+Mario has 4 coins
+Mario has defeated 3 enemies in a row!
+Mario will move down
+==============
+==============
+k x g g k 
+w H x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (1, 1)
+Mario is at power level 0
+Mario collected a coin!
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 3 enemies in a row!
+Mario will move right
+==============
+==============
+k x g g k 
+w x H b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (1, 2)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 3 enemies in a row!
+Mario will move up
+==============
+==============
+k x H g k 
+w x x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (0, 2)
+Mario is at power level 0
+Mario fought a Goomba and won!
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 4 enemies in a row!
+Mario will move down
+==============
+==============
+k x x g k 
+w x H b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (1, 2)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 4 enemies in a row!
+Mario will move up
+==============
+==============
+k x H g k 
+w x x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (0, 2)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 4 enemies in a row!
+Mario will move up
+==============
+==============
+k x x g k 
+w x x b c 
+g c g x g 
+x m g k c 
+k x H k k 
+
+Level 2
+Mario is at position (4, 2)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 4 enemies in a row!
+Mario will move left
+==============
+==============
+k x x g k 
+w x x b c 
+g c g x g 
+x m g k c 
+k H x k k 
+
+Level 2
+Mario is at position (4, 1)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 4 enemies in a row!
+Mario will move down
+==============
+==============
+k H x g k 
+w x x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (0, 1)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 4 enemies in a row!
+Mario will move down
+==============
+==============
+k x x g k 
+w H x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (1, 1)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 4 enemies in a row!
+Mario will move left
+==============
+==============
+k x x g k 
+H x x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (1, 0)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 4 enemies in a row!
+Mario will move left
+==============
+==============
+k x x g k 
+H x x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (1, 0)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 4 enemies in a row!
+Mario will move up
+==============
+==============
+H x x g k 
+x x x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (0, 0)
+Mario is at power level 0
+Mario fought a Koopa and won!
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 5 enemies in a row!
+Mario will move right
+==============
+==============
+x H x g k 
+x x x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (0, 1)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 5 enemies in a row!
+Mario will move down
+==============
+==============
+x x x g k 
+x H x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (1, 1)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 5 enemies in a row!
+Mario will move right
+==============
+==============
+x x x g k 
+x x H b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (1, 2)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 5 enemies in a row!
+Mario will move left
+==============
+==============
+x x x g k 
+x H x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (1, 1)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 5 enemies in a row!
+Mario will move left
+==============
+==============
+x x x g k 
+H x x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (1, 0)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 5 enemies in a row!
+Mario will move up
+==============
+==============
+H x x g k 
+x x x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (0, 0)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 5 enemies in a row!
+Mario will move left
+==============
+==============
+x x x g H 
+x x x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (0, 4)
+Mario is at power level 0
+Mario fought a Koopa and won!
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 6 enemies in a row!
+Mario will move right
+==============
+==============
+H x x g x 
+x x x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (0, 0)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 6 enemies in a row!
+Mario will move down
+==============
+==============
+x x x g x 
+H x x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (1, 0)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 6 enemies in a row!
+Mario will move up
+==============
+==============
+H x x g x 
+x x x b c 
+g c g x g 
+x m g k c 
+k x x k k 
+
+Level 2
+Mario is at position (0, 0)
+Mario is at power level 0
+The space is empty.
+Mario has 2 lives
+Mario has 5 coins
+Mario has defeated 6 enemies in a row!
+Mario will move up
+==============
+==============
+x x x g x 
+x x x b c 
+g c g x g 
+x m g k c 
+H x x k k 
+
+Level 2
+Mario is at position (4, 0)
+Mario is at power level 0
+Mario fought a Koopa and won!
+Mario has 3 lives
+Mario has 5 coins
+Mario has defeated 0 enemies in a row!
+Mario will move down
+==============
+==============
+H x x g x 
+x x x b c 
+g c g x g 
+x m g k c 
+x x x k k 
+
+Level 2
+Mario is at position (0, 0)
+Mario is at power level 0
+The space is empty.
+Mario has 3 lives
+Mario has 5 coins
+Mario has defeated 0 enemies in a row!
+Mario will move right
+==============
+==============
+x H x g x 
+x x x b c 
+g c g x g 
+x m g k c 
+x x x k k 
+
+Level 2
+Mario is at position (0, 1)
+Mario is at power level 0
+The space is empty.
+Mario has 3 lives
+Mario has 5 coins
+Mario has defeated 0 enemies in a row!
+Mario will move down
+==============
+==============
+x x x g x 
+x H x b c 
+g c g x g 
+x m g k c 
+x x x k k 
+
+Level 2
+Mario is at position (1, 1)
+Mario is at power level 0
+The space is empty.
+Mario has 3 lives
+Mario has 5 coins
+Mario has defeated 0 enemies in a row!
+Mario will move left
+==============
+==============
+x x x g x 
+H x x b c 
+g c g x g 
+x m g k c 
+x x x k k 
+
+Level 2
+Mario is at position (1, 0)
+Mario is at power level 0
+The space is empty.
+Mario has 3 lives
+Mario has 5 coins
+Mario has defeated 0 enemies in a row!
+Mario will move up
+==============
+==============
+H x x g x 
+x x x b c 
+g c g x g 
+x m g k c 
+x x x k k 
+
+Level 2
+Mario is at position (0, 0)
+Mario is at power level 0
+The space is empty.
+Mario has 3 lives
+Mario has 5 coins
+Mario has defeated 0 enemies in a row!
+Mario will move left
+==============
+==============
+x x x g H 
+x x x b c 
+g c g x g 
+x m g k c 
+x x x k k 
+
+Level 2
+Mario is at position (0, 4)
+Mario is at power level 0
+The space is empty.
+Mario has 3 lives
+Mario has 5 coins
+Mario has defeated 0 enemies in a row!
+Mario will move down
+==============
+==============
+x x x g x 
+x x x b H 
+g c g x g 
+x m g k c 
+x x x k k 
+
+Level 2
+Mario is at position (1, 4)
+Mario is at power level 0
+Mario collected a coin!
+Mario has 3 lives
+Mario has 6 coins
+Mario has defeated 0 enemies in a row!
+Mario will move up
+==============
+==============
+x x x g H 
+x x x b x 
+g c g x g 
+x m g k c 
+x x x k k 
+
+Level 2
+Mario is at position (0, 4)
+Mario is at power level 0
+The space is empty.
+Mario has 3 lives
+Mario has 6 coins
+Mario has defeated 0 enemies in a row!
+Mario will move down
+==============
+==============
+x x x g x 
+x x x b H 
+g c g x g 
+x m g k c 
+x x x k k 
+
+Level 2
+Mario is at position (1, 4)
+Mario is at power level 0
+The space is empty.
+Mario has 3 lives
+Mario has 6 coins
+Mario has defeated 0 enemies in a row!
+Mario will move left
+==============
+==============
+x x x g x 
+x x x H x 
+g c g x g 
+x m g k c 
+x x x k k 
+
+Level 2
+Mario is at position (1, 3)
+Mario is at power level 0
+Mario fought a Boss and lost!
+Mario has 1 lives
+Mario has 6 coins
+Mario has defeated 0 enemies in a row!
+Mario will move left
+==============
+==============
+x x x g x 
+x x x H x 
+g c g x g 
+x m g k c 
+x x x k k 
+
+Level 2
+Mario is at position (1, 3)
+Mario is at power level 0
+Mario fought a Boss and won!
+Mario has 1 lives
+Mario has 6 coins
+Mario has defeated 0 enemies in a row!
+Mario will move up
+==============
+Mario won the game!
